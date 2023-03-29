@@ -1,4 +1,4 @@
 const bruh = function ()
 {
-  console.log("lmao");
+  console.log("lfmao");
 }
